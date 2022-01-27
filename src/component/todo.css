@@ -1,0 +1,8 @@
+.completed {
+  color: green;
+  text-decoration: line-through;
+}
+
+* {
+  list-style: none;
+}
